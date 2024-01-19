@@ -17,9 +17,10 @@ The Primary tool being Data Visualization, Matplotlib library is extensively us
 
 The dataset contains annual data on the flows of international immigrants as compiled by UN for the period 1980 - 2013.<br> 
 The dataset spans across years from 1980 to 2013.<br>
+
 It has various information regarding the Origin country of immigrants, continent, region, and  whether that region is classifies as  developed or developing.<br>
-The data contains information from 195 countries.<br>
-The Dataset has 195 rows & 43 columns<br>
+
+The data contains information from 195 countries and it has 195 rows & 43 columns.
 
 ## Analysis Approach
 
